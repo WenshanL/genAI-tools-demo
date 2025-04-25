@@ -9,4 +9,12 @@ include:
   - tools/application.md
   - tools/development.md
   - tools/model.md
+  - tags/application/license.md
+  - tags/application/purpose.md
+  - tags/application/region.md
+  - tags/development/license.md
+  - tags/development/region.md
+  - tags/model/license.md
+  - tags/model/region.md
+  
 
